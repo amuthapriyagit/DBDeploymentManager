@@ -1,0 +1,1 @@
+delete from users where id in (10003,10004);
